@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Superior Aluminium &amp; Glass</string>
+    <string name="title_activity_main2">Superior Aluminium &amp; Glass</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hafiz Ibtsaam Ali</string>
+    <string name="nav_header_subtitle">ibtsaamali255@yahoo.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">New Qutation</string>
+    <string name="menu_gallery">Rate US</string>
+    <string name="menu_tools">About Us</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

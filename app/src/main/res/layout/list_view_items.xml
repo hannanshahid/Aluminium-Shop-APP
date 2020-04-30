@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+
+            android:paddingTop="10dp"
+            android:text="Dc26c"
+            android:layout_width="67dp"
+            android:layout_height="51dp"
+            android:id="@+id/sectionname"/>
+    <TextView
+            android:paddingTop="10dp"
+            android:text="6.25"
+            android:layout_width="54dp"
+            android:layout_height="51dp"
+            android:id="@+id/sizeininch"/>
+    <TextView
+            android:paddingTop="10dp"
+            android:text="6"
+            android:paddingStart="5dp"
+            android:layout_width="58dp"
+            android:layout_height="52dp"
+            android:id="@+id/sizeinfeet"/>
+    <TextView
+            android:paddingTop="10dp"
+            android:text="18"
+            android:paddingStart="5dp"
+
+            android:layout_width="44dp"
+            android:layout_height="51dp"
+            android:id="@+id/Lengthsize"/>
+    <TextView
+            android:paddingTop="10dp"
+            android:text="20"
+            android:layout_width="51dp"
+            android:layout_height="52dp"
+            android:id="@+id/lengthused"/>
+    <TextView
+            android:paddingTop="10dp"
+            android:text="6000"
+            android:paddingStart="5dp"
+
+            android:layout_width="56dp"
+            android:layout_height="51dp"
+            android:id="@+id/perfootprice"/>
+    <TextView
+            android:paddingTop="10dp"
+            android:text="22000"
+            android:paddingStart="5dp"
+
+            android:layout_width="76dp"
+            android:layout_height="51dp"
+            android:id="@+id/TotalPrice"/>
+</LinearLayout>
